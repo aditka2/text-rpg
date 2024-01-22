@@ -1,0 +1,67 @@
+game will be called quest 
+
+take steps left right front back 
+randomly get lives or arrows
+enemies appear randomly
+if certain number of steps are survived you win
+random quizzes right answer gives life ,wrong answer you lose
+immediatley or lose lives
+if more time than specified is taken lose a life
+different enemies take different amount of arrows to kill
+randomly spawn double points
+
+randomly generating with fixed probabilities
+1 random from 0-100 fix a range to determine probability
+or make it a divisor of a certain number
+
+incoporate text to speech and sounds 
+and show images of items and enemies
+
+random chance of critical hit doubles damage
+
+developer cheat code for extra 
+
+weapons with random chance of different damage values
+
+matplotlib or pandas graphs to show enemy health
+
+time based mechanics
+
+boss fight where you must predict blocks and attacks ,
+
+use files to store progress of player ,highscore etc
+
+damage can be base value plus rand in range(-10,+10)
+
+every 10 steps you encounter a trader from whom you can trade gold for stuff
+
+only display secret attacks after player has unlocked one of them
+
+use list functions random.choice(list) picks a random element from the list
+
+show hp as current hp/max hp    40/45   instead of just showing health left
+
+
+more complex functions :
+
+codex showing power and abilities of all items , make a seemless transition in that menu
+pressing down arrow skey increases some variable that then becomes the input to print out
+details of item in the list , then presing enter will select that item 
+and you can inspect it , also display a picture along with the stats 
+
+block and stun feature , if block timed properly then you can attack twice ,only 
+do this for tougher enemies 
+
+armor system , each contributes a small part to some stat , then total
+sum of all armor peieces is added to your stats , add more stats like magic bonus, defence
+gold bonus , luck, xp gain, attack bonus , create special items that provide unique benefits
+
+dungeons are predetermined grid that players move around
+
+god of war type ,times correct keys and gives damage benefit
+
+try to implement side by side view of your and enemies health
+try to show health bar 
+
+keep trasure items at random locations if player reaches those
+co ordinates they will obatin treasure
